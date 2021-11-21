@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d8cffe4-3fe0-4016-b6d6-ef38c00f2a99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="217oJpySDrftKpfJOMVRR1j1AnF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\TF2.X\modelmain\trianandsave" />
+      <recent name="D:\PycharmProjects\TF2.X\modelmain\1.datadispose" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d8cffe4-3fe0-4016-b6d6-ef38c00f2a99" name="Default Changelist" comment="" />
+      <created>1637301417910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637301417910</updated>
+      <workItem from="1637301425172" duration="14709000" />
+      <workItem from="1637318304414" duration="801000" />
+      <workItem from="1637396290710" duration="1632000" />
+      <workItem from="1637420467072" duration="722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="145" key="FileChooserDialogImpl" timestamp="1637399623356">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.2048.1112@0.0.1280.680" timestamp="1637316981541" />
+    <state x="561" y="145" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1637399623356" />
+    <state x="189" y="0" key="SettingsEditor" timestamp="1637396400729">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.2048.1112@0.0.1280.680" timestamp="1637301861631" />
+    <state x="189" y="0" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1637396400729" />
+  </component>
+</project>

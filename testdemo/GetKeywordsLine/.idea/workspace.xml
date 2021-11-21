@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="825a087d-ea96-415f-b7f3-0f7552a24c21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xslMYIIXwOWmySf07jMGfpb2LQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="getkeywordsline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GetKeywordsLine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getkeywordsline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getkeywordsline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825a087d-ea96-415f-b7f3-0f7552a24c21" name="Default Changelist" comment="" />
+      <created>1631151628533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631151628533</updated>
+      <workItem from="1631151630857" duration="2609000" />
+      <workItem from="1631156919742" duration="3492000" />
+      <workItem from="1631169371089" duration="4786000" />
+      <workItem from="1631791269429" duration="2704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1202" height="121" key="GridCell.Tab.0.bottom" timestamp="1631848188803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="121" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631848188803" />
+    <state width="1202" height="121" key="GridCell.Tab.0.center" timestamp="1631848188803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="121" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631848188803" />
+    <state width="1202" height="121" key="GridCell.Tab.0.left" timestamp="1631848188802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="121" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631848188802" />
+    <state width="1202" height="121" key="GridCell.Tab.0.right" timestamp="1631848188803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631848188803" />
+    <state x="174" y="0" key="SettingsEditor" timestamp="1631791400789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="174" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1631791400789" />
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1631791270415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1631791270415" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GetKeywordsLine$getkeywordsline.coverage" NAME="getkeywordsline Coverage Results" MODIFIED="1631793366288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eef143d1-2983-482e-82c9-e41ce5069758" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="20DQrDgRzrHxknftjQq8Jq85ibH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tflite-identify" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.mnist_imagedata_generator">
+    <configuration name="mnist_app3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MNIST_FC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_app3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnist_imagedata_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MNIST_FC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_imagedata_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnist_train_ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MNIST_FC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_train_ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="net_visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MNIST_FC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/net_visualization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mnist_imagedata_generator" />
+        <item itemvalue="Python.mnist_train_ex1" />
+        <item itemvalue="Python.net_visualization" />
+        <item itemvalue="Python.mnist_app3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef143d1-2983-482e-82c9-e41ce5069758" name="Default Changelist" comment="" />
+      <created>1635576875221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635576875221</updated>
+      <workItem from="1635576896062" duration="3634000" />
+      <workItem from="1635758492830" duration="12973000" />
+      <workItem from="1637301445083" duration="10881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2653" y="169" key="#mnist_train_ex1" timestamp="1637302704135">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2653" y="169" key="#mnist_train_ex1/0.0.1280.680/1920.0.2048.1112@1920.0.2048.1112" timestamp="1637302704135" />
+    <state x="404" y="99" key="FileChooserDialogImpl" timestamp="1637317095665">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="404" y="99" key="FileChooserDialogImpl/0.0.1280.680/1920.0.2048.1112@0.0.1280.680" timestamp="1637317095665" />
+    <state width="961" height="78" key="GridCell.Tab.0.bottom" timestamp="1637317047621">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="961" height="78" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.2048.1112@0.0.1280.680" timestamp="1637317047621" />
+    <state width="2005" height="89" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.2048.1112@1920.0.2048.1112" timestamp="1637304607948" />
+    <state width="1036" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635660396783" />
+    <state width="961" height="78" key="GridCell.Tab.0.center" timestamp="1637317047621">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="961" height="78" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.2048.1112@0.0.1280.680" timestamp="1637317047621" />
+    <state width="2005" height="89" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.2048.1112@1920.0.2048.1112" timestamp="1637304607948" />
+    <state width="1036" height="141" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1635660396783" />
+    <state width="961" height="78" key="GridCell.Tab.0.left" timestamp="1637317047620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="961" height="78" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.2048.1112@0.0.1280.680" timestamp="1637317047620" />
+    <state width="2005" height="89" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.2048.1112@1920.0.2048.1112" timestamp="1637304607948" />
+    <state width="1036" height="141" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1635660396783" />
+    <state width="961" height="78" key="GridCell.Tab.0.right" timestamp="1637317047621">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="961" height="78" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.2048.1112@0.0.1280.680" timestamp="1637317047621" />
+    <state width="2005" height="89" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.2048.1112@1920.0.2048.1112" timestamp="1637304607948" />
+    <state width="1036" height="141" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1635660396783" />
+    <state x="2109" y="0" key="SettingsEditor" timestamp="1637302714750">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2109" y="0" key="SettingsEditor/0.0.1280.680/1920.0.2048.1112@1920.0.2048.1112" timestamp="1637302714750" />
+    <state x="118" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1635577055573" />
+    <state x="300" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1635758494449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="300" y="150" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1635758494449" />
+    <state x="642" y="0" width="638" height="680" key="find.popup" timestamp="1635759711293">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="642" y="0" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1635759711293" />
+    <state x="365" y="113" width="672" height="678" key="search.everywhere.popup" timestamp="1635759694231">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="365" y="113" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1635759694231" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MNIST_FC$mnist_imagedata_generator.coverage" NAME="mnist_imagedata_generator Coverage Results" MODIFIED="1637304607941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MNIST_FC$net_visualization.coverage" NAME="net_visualization Coverage Results" MODIFIED="1635817167438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MNIST_FC$mnist_train_ex1.coverage" NAME="mnist_train_ex1 Coverage Results" MODIFIED="1637303622550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MNIST_FC$mnist_app3.coverage" NAME="mnist_app3 Coverage Results" MODIFIED="1635579209061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
