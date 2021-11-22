@@ -7,8 +7,8 @@ def main():
 
     load_flag = 0
     load_path = './model_save'   #'./model_h5/model.h5' './frozen_graph/model.pb'
-    dirname = './tflite_quant'
-    filename = 'quant_save_model.tflite'  #'quant_h5 .tflite' 'quant_frozen .tflite'
+    dirname = './tflite'
+    filename = 'save_model.tflite'  #'h5 .tflite' 'frozen .tflite'
 
     convert_unquant_model_to_tflite(load_flag, load_path, dirname, filename)
     print("---  convert {} success  ---".format(filename))

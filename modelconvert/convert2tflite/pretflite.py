@@ -28,7 +28,6 @@ def main():
 
     prediction(interpreter, pre_img_path, height, width)
 
-
 def prediction(interpreter, pre_img_path, height, width):
     for img_name in os.listdir(pre_img_path):
         pre_img_path = pre_img_path + '/' + img_name

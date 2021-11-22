@@ -6,6 +6,7 @@ from modelstructure.model import MnistModel
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 def main():
+    global model
     height = 228
     width = 228
     load_flag = 0

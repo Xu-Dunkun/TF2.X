@@ -20,13 +20,13 @@ def main():
         converter = tf.lite.TFLiteConverter.from_concrete_functions(model)
 
     if quant_flag == 0:
-        convert_quant_weight_model_to_tflite(converter, './tflite_quant', '/quant_weight.tflite')
+        convert_quant_weight_model_to_tflite(converter, './tflite_post_quant', '/quant_weight.tflite')
         print("---  convert quant_weight_model success  ---")
     elif quant_flag == 1:
-        convert_quant_full_integer_model_to_tflite(converter, resp_data, './tflite_quant', '/quant_full_integer.tflite')
+        convert_quant_full_integer_model_to_tflite(converter, resp_data, './tflite_post_quant', '/quant_full_integer.tflite')
         print("---  convert quant_full_integer_model success  ---")
     elif quant_flag == 2:
-        convert_quant_full_integer_model_to_tflite(converter, resp_data, './tflite_quant', '/quant_only_integer.tflite')
+        convert_quant_full_integer_model_to_tflite(converter, resp_data, './tflite_post_quant', '/quant_only_integer.tflite')
         print("---  convert quant_only_integer_model success  ---")
 
 
